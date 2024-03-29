@@ -1,0 +1,94 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+body{
+  padding-top: 200px;
+  display: flex;
+  margin: auto;
+  align-content: center;
+  justify-content: center;
+  
+}
+button{
+  position: absolute;
+  border-radius: .5rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 2.5rem;
+  margin: -60px;
+  
+
+}
+td {
+  border: 3px double rgb(216, 216, 216);
+  border-radius: .5rem;
+  background: rgb(38, 153, 248);
+  font-size: 1.5rem;
+  text-align: center;
+  height: 150px;
+  width: 230px;
+}
+td:hover {
+  border: 3px double blue;
+  border-radius: .5rem;
+  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+  background: rgb(38, 153, 248);
+  font-size: 1.5rem;
+  text-align: center;
+  height: 150px;
+  width: 230px;
+  opacity: 75%;
+}
+#cell0{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+ 
+}
+#cell1{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+}
+#cell2{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+}
+#cell3{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+}
+#cell4{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+}
+#cell5{
+  border: 4px solid rgb(26, 26, 26);
+  font-size: 2.2rem;
+  color: aliceblue;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  opacity: 100%;
+}
